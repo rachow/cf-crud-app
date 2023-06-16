@@ -1,11 +1,14 @@
 # CF CRUD App
 
-## What is this App?
+![image](https://github.com/rachow/cf-crud-app/assets/12745192/798e1669-39fb-447f-84d4-1a1384359017)
+
+
+## What is this App
 
 The CF CRUD App is a simple and skeleton app for CRUD (Create, Read, Update, Delete) operations.
 This App has been built with insights from [CF Partners](https://www.cf-partners.com)
 
-The App has been build on the PHP CodeIgniter 4 (MVC) framework.
+The App has been built on the PHP CodeIgniter 4 (MVC) framework.
 
 ## Installation 
 
